@@ -1,2 +1,2 @@
-# Project-Analyzing-Industry-Carbon-Emissions
+```SELECT * FROM data```
 
